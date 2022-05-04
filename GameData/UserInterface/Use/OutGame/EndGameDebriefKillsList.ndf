@@ -48,7 +48,7 @@ private template DebriefKillUnitComponent
 
                 ComponentFrame = TUIFramePropertyRTTI
                 (
-                    MagnifiableWidthHeight = [25.0, 25.0]
+                    MagnifiableWidthHeight = [30.0, 30.0]
                     AlignementToAnchor = [0.0, 0.5]
                     AlignementToFather = [0.0, 0.5]
                 )
@@ -76,7 +76,7 @@ private template DebriefKillUnitComponent
                 ElementName = <ElementName> + "LabelConteneur"
                 ComponentFrame = TUIFramePropertyRTTI
                 (
-                    MagnifiableWidthHeight = [40.0, 25.0]
+                    MagnifiableWidthHeight = [54.0, 26.0]
                     AlignementToAnchor = [0.0, 0.5]
                     AlignementToFather = [0.0, 0.5]
                 )
@@ -112,7 +112,7 @@ private template DebriefKillUnitComponent
                                     ElementName = <ElementName> + 'Label'
                                     ComponentFrame = TUIFramePropertyRTTI
                                     (
-                                        MagnifiableWidthHeight = [20, 25.0]
+                                        MagnifiableWidthHeight = [28, 28.0]
                                         AlignementToAnchor = [0.0, 0.5]
                                         AlignementToFather = [0.0, 0.5]
                                     )
@@ -134,7 +134,6 @@ private template DebriefKillUnitComponent
 
                                     ComponentFrame = TUIFramePropertyRTTI
                                     (
-                                        MagnifiableWidthHeight = [20, 0]
                                         RelativeWidthHeight = [0.0, 1.0]
                                     )
 
@@ -435,7 +434,7 @@ private template DebriefKillOneKillerRack
             HasBackground = false
             HasBorder = true
             BordersToDraw = ~/TBorderSide/Top
-            BorderLineColorToken = "CyanFonceFulda"
+            BorderLineColorToken = "GrisTexte"
             BorderThicknessToken = "2"
         )
     ]
