@@ -3,7 +3,7 @@ This is a mode that adds player Name in EndGame kill/losses section
 
 The repo only includes the file changed in the making of this mod
 
-
+Stem Mod Description: 
 [h2] I. Description [/h2]
 This mod is purely cosmetic as it does not change any game play elements. Therefore, you could use the mod in any multiplayer game without the need for others to have the mod. The mod adds the playerName for each unit in the kill/losses list to give you a better idea of which player has killed your unit.
 
